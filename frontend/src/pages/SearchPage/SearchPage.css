@@ -1,0 +1,12 @@
+.search-page .heading {
+    background: #f94144;
+    color: #ffffff;
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.search-page .heading h1 {
+    padding: 0px;
+    margin: 0px;
+}
